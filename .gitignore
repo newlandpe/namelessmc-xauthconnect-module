@@ -1,0 +1,10 @@
+/vendor/
+/composer.lock
+/cache/
+/uploads/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
