@@ -1,0 +1,15 @@
+{
+  "xauthconnect": "XAuthConnect",
+  "xauthconnect_settings": "XAuthConnect Settings",
+  "xauthconnect_client_id": "Client ID",
+  "xauthconnect_client_secret": "Client Secret",
+  "xauthconnect_issuer_url": "Issuer URL",
+  "xauthconnect_redirect_uri": "Redirect URI",
+  "xauthconnect_redirect_uri_info": "This is the Redirect URI you need to configure in your XAuthConnect application.",
+  "integration_xauthconnect_link": "Link XAuthConnect Account",
+  "integration_xauthconnect_unlink": "Unlink XAuthConnect Account",
+  "integration_xauthconnect_linked": "XAuthConnect account linked successfully.",
+  "integration_xauthconnect_unlinked": "XAuthConnect account unlinked successfully.",
+  "integration_xauthconnect_already_linked": "This XAuthConnect account is already linked to another user.",
+  "integration_xauthconnect_invalid": "Invalid XAuthConnect ID or username."
+}
