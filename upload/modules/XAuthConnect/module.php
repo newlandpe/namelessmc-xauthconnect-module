@@ -41,7 +41,7 @@ class XAuthConnect_Module extends Module {
         // Create default settings for XAuthConnect
         Settings::set('xauthconnect_client_id', '');
         Settings::set('xauthconnect_client_secret', '');
-        Settings::set('xauthconnect_issuer_url', 'https://connect.fyennyi.pp.ua'); // Default issuer URL
+        Settings::set('xauthconnect_issuer_url', 'http://xauth-server.com'); // Default issuer URL
     }
 
     public function onUninstall() {
