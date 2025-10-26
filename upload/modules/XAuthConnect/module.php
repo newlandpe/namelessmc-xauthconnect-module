@@ -2,7 +2,7 @@
 /**
  * NamelessMC XAuthConnect Module
  *
- * @author Your Name
+ * @author Serhii Cherneha
  * @version 1.0.0
  * @license MIT
  */
@@ -15,7 +15,7 @@ class XAuthConnect_Module extends Module {
         $this->_language = $language;
 
         $name = 'XAuthConnect Integration';
-        $author = '<a href="https://github.com/yourusername" target="_blank" rel="nofollow noopener">Your Name</a>';
+        $author = '<a href="https://github.com/newlandpe" target="_blank" rel="nofollow noopener">Serhii Cherneha</a>';
         $module_version = '1.0.0';
         $nameless_version = '2.2.3'; // Assuming NamelessMC 2.2.3
 

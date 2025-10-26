@@ -16,7 +16,7 @@ use ChernegaSergiy\XAuthConnect\OAuth2\Client\Provider\XAuthConnect as BaseXAuth
  * XAuthConnectProvider class for NamelessMC.
  *
  * @package Modules\XAuthConnect\Classes
- * @author Your Name
+ * @author Serhii Cherneha
  * @version 1.0.0
  * @license MIT
  */
