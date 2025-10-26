@@ -4,7 +4,7 @@
  *
  * @author Serhii Cherneha
  * @version 1.0.0
- * @license MIT
+ * @license CSSM Unlimited License v2.0 (CSSM-ULv2)
  */
 
 class XAuthConnect_Module extends Module {

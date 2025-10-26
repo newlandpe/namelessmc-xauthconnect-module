@@ -18,7 +18,7 @@ use ChernegaSergiy\XAuthConnect\OAuth2\Client\Provider\XAuthConnect as BaseXAuth
  * @package Modules\XAuthConnect\Classes
  * @author Serhii Cherneha
  * @version 1.0.0
- * @license MIT
+ * @license CSSM Unlimited License v2.0 (CSSM-ULv2)
  */
 class XAuthConnectProvider extends BaseXAuthConnectProvider {
 
