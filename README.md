@@ -24,7 +24,6 @@ A NamelessMC module offering secure OAuth2 authentication by integrating with XA
    ```bash
    composer require newlandpe/oauth2-xauthconnect
    ```
-   *Note: If you are developing the `oauth2-xauthconnect` library locally, you can configure a `path` repository in your NamelessMC `composer.json`.*
 
 2. **Upload Module Files:**
    Copy the contents of the `upload/` directory from this module's repository into the root directory of your NamelessMC installation.
@@ -70,3 +69,4 @@ Please make sure to update tests as appropriate and adhere to the existing codin
 ## License
 
 This module is licensed under the [CSSM Unlimited License v2.0](LICENSE).
+
